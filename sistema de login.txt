@@ -1,4 +1,5 @@
 digite seu email
 digite sua senha
+digite novamente sua senha
 digite seu nome
 digite sua idade
